@@ -8,7 +8,7 @@
 <!-- badges: end -->
 
 The goal of usd-data-analysis is to build a GitBook and display related
-empirical analysis (Li, Gao, and Huang 2020; Lu, Li, and Sheng 2020),
+empirical analysis (Li, Gao, and Huang 2020; LU, XIANG LI, and SHENG),
 see
 [GitBook](https://jiaxiangbu.github.io/usd-data-analysis/paper_notes)
 and some references (*Fin Statbility Paper Review
@@ -65,9 +65,10 @@ GitHub. 2020. <https://github.com/JiaxiangBU/usd-data-analysisEX>.
 
 <div id="ref-Lu2020">
 
-Lu, Changrong, Jiaxiang Li, and Yi Sheng. 2020. “A Study on the Negative
-Externality of Usd Liquidity - Based on the Asset Allocation Efficiency
-of Us Treasury Securities.” *The Singapore Economic Review (SSCI)*.
+LU, CHANG RONG, JIA XIANG LI, and YI SHENG“A Study on the Negative
+Externality of Usd Liquidity — Based on the Asset Allocation Efficiency
+of Us Treasury Securities.” *The Singapore Economic Review* 0 (0): 1–29.
+<https://doi.org/10.1142/S0217590820500149>.
 
 </div>
 
